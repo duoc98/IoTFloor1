@@ -1,0 +1,11 @@
+{
+  "adtHostName": "adt-07e98e29.api.eus.digitaltwins.azure.net",
+  "appId": "c4745ead-c61b-47a3-a14a-9b54c5b4db3d",
+  "resourceGroupName": "iotfloor1-rg",
+  "iotHubName": "iothub-07e98e29",
+  "password": "6IwfZ5ZL_f_Q5k~-STWQmUozrlj69UOQ~l",
+  "signalRNegotiatePath": "funcapp-07e98e29.azurewebsites.net/api/",
+  "tenant": "bb294a63-8a9a-4ab0-bc8c-dedd8b9e7bd8",
+  "tsiEnvFqdn": "https://insights.timeseries.azure.com/?environmentId=20bf4c16-0533-44f0-99b9-0a839fa81d2f",
+  "tsiWebAppPath": "https://webapp-07e98e29.azurewebsites.net"
+}

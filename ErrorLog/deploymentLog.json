@@ -1,0 +1,72 @@
+{
+  "ResourceGroupName": "iotfloor1-rg",
+  "OnErrorDeployment": null,
+  "DeploymentName": "iotfloor1-07e98e29",
+  "CorrelationId": "b4213fc1-4091-4969-8955-b837491fcccb",
+  "ProvisioningState": "Succeeded",
+  "Timestamp": "2022-09-07T11:16:16.767367Z",
+  "Mode": "Incremental",
+  "TemplateLink": null,
+  "TemplateLinkString": null,
+  "DeploymentDebugLogLevel": null,
+  "Parameters": {
+    "userId": {
+      "Type": "String",
+      "Value": "490c9938-8439-40b9-873d-e190d0555adc"
+    },
+    "appRegId": {
+      "Type": "String",
+      "Value": "c4745ead-c61b-47a3-a14a-9b54c5b4db3d"
+    },
+    "appRegPassword": {
+      "Type": "SecureString",
+      "Value": null
+    },
+    "servicePrincipalObjectId": {
+      "Type": "String",
+      "Value": "684d1499-cfd0-4584-8af2-429908714def"
+    },
+    "tenantId": {
+      "Type": "String",
+      "Value": "bb294a63-8a9a-4ab0-bc8c-dedd8b9e7bd8"
+    },
+    "utcValue": {
+      "Type": "String",
+      "Value": "20220907T110706Z"
+    },
+    "repoOrgName": {
+      "Type": "String",
+      "Value": "Azure-Samples"
+    },
+    "repoName": {
+      "Type": "String",
+      "Value": "azure-digital-twins-unreal-integration"
+    },
+    "repoBranchName": {
+      "Type": "String",
+      "Value": "main"
+    },
+    "unique": {
+      "Type": "String",
+      "Value": "07e98e29"
+    }
+  },
+  "Tags": null,
+  "ParametersString": "\r\nName                        Type                       Value     \r\n==========================  =========================  ==========\r\nuserId                      String                     \"490c9938-8439-40b9-873d-e190d0555adc\"\r\nappRegId                    String                     \"c4745ead-c61b-47a3-a14a-9b54c5b4db3d\"\r\nappRegPassword              SecureString               null      \r\nservicePrincipalObjectId    String                     \"684d1499-cfd0-4584-8af2-429908714def\"\r\ntenantId                    String                     \"bb294a63-8a9a-4ab0-bc8c-dedd8b9e7bd8\"\r\nutcValue                    String                     \"20220907T110706Z\"\r\nrepoOrgName                 String                     \"Azure-Samples\"\r\nrepoName                    String                     \"azure-digital-twins-unreal-integration\"\r\nrepoBranchName              String                     \"main\"    \r\nunique                      String                     \"07e98e29\"\r\n",
+  "Outputs": {
+    "importantInfo": {
+      "Type": "Object",
+      "Value": {
+        "appId": "c4745ead-c61b-47a3-a14a-9b54c5b4db3d",
+        "password": "6IwfZ5ZL_f_Q5k~-STWQmUozrlj69UOQ~l",
+        "tenant": "bb294a63-8a9a-4ab0-bc8c-dedd8b9e7bd8",
+        "iotHubName": "iothub-07e98e29",
+        "signalRNegotiatePath": "funcapp-07e98e29.azurewebsites.net/api/",
+        "adtHostName": "adt-07e98e29.api.eus.digitaltwins.azure.net",
+        "tsiEnvFqdn": "https://insights.timeseries.azure.com/?environmentId=20bf4c16-0533-44f0-99b9-0a839fa81d2f",
+        "tsiWebAppPath": "https://webapp-07e98e29.azurewebsites.net"
+      }
+    }
+  },
+  "OutputsString": "\r\nName             Type                       Value     \r\n===============  =========================  ==========\r\nimportantInfo    Object                     {\"appId\":\"c4745ead-c61b-47a3-a14a-9b54c5b4db3d\",\"password\":\"6IwfZ5ZL_f_Q5k~-STWQmUozrlj69UOQ~l\",\"tenant\":\"bb294a63-8a9a-4ab0-bc8c-dedd8b9e7bd8\",\"iotHubName\":\"iothub-07e98e29\",\"signalRNegotiatePath\":\"funcapp-07e98e29.azurewebsites.net/api/\",\"adtHostName\":\"adt-07e98e29.api.eus.digitaltwins.azure.net\",\"tsiEnvFqdn\":\"https://insights.timeseries.azure.com/?environmentId=20bf4c16-0533-44f0-99b9-0a839fa81d2f\",\"tsiWebAppPath\":\"https://webapp-07e98e29.azurewebsites.net\"}\r\n"
+}

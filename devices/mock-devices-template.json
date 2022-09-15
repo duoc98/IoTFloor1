@@ -1,0 +1,213 @@
+{
+  "devices": [
+    {
+      "configuration": {
+        "personName": "Hoàng Văn Nhân",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-074",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Huỳnh Hữu Được",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-071",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Phạm Trung Kiên",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-070",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Ngô Tấn Đạt",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-069",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Minh Công",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-068",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Trần Văn Hòa",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-066",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Đặng Thế Hùng",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-067",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Võ Trường",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-SepPhuc",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Lê Thanh Nguyên",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-064",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Phạm Lê Minh Trí",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-044",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Ngọc Tường Vy",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-076",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Lê Quỳnh Tiên",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-026",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Minh Phương",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-028",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Chế Hồ Quang Đạt",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-072",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Đình Nhã",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-078",
+        "connectionString": "",
+        "deviceTags": {
+          "deploymentLocation": {
+            "building": "Portcoast",
+            "floor": "1"
+          },
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Vũ Hoàng Minh",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-065",
+        "connectionString": "",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    }
+  ],
+  "comments": [
+    {
+      "description": "comments just for understanding!!! Not deploy in code!!!",
+      "personName": "The name of person who own device.",
+      "_kind": "there are two kinds of device: hub and template",
+      "deviceType": "there are two types of device: device (Devices) and iotedge (IoT Edge)",
+      "deviceId": "the id of device will be create. Following creator ideas",
+      "connectionString": "This will be responsed from iot hub.",
+      "deviceTags": {
+          "schema": "device-twin tags will be update up to creator."
+        }
+    }
+  ]
+}

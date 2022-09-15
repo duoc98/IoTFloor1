@@ -1,0 +1,213 @@
+{
+  "devices": [
+    {
+      "configuration": {
+        "personName": "Hoàng Văn Nhân",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-074",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-074;SharedAccessKey=FcctjVVQ72cmBlXC5jfsBGYG9MdxGvpGL1gQBG3YmNI=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Huỳnh Hữu Được",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-071",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-071;SharedAccessKey=9IdHxkgv1GLt/KusNiNubzR+Cv84H7fIqxTYENwVlqw=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Phạm Trung Kiên",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-070",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-070;SharedAccessKey=PEIhTP4DFMEwRl2SFj59ibRPQzuCukQv0LCN0hYSnAs=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Ngô Tấn Đạt",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-069",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-069;SharedAccessKey=GdxsBV1VwKs9J1Nal8pJIJdcCOI15uMjSuLxF/mIqPM=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Minh Công",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-068",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-068;SharedAccessKey=YHpfWIH0fjNCNLBZNVQpyNbZqyU71X/Jl+AkZ2lHkpM=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Trần Văn Hòa",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-066",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-066;SharedAccessKey=FDLbYEkGOQgoOWJi4b7xOy0Y/brl7Ej9ZTLOakvouE0=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Đặng Thế Hùng",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-067",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-067;SharedAccessKey=hMe6PNyn3G8oNTmlW+ZfjrjsegazeXTb7gyNkSGTfPM=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Võ Trường",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-SepPhuc",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-SepPhuc;SharedAccessKey=LjoNu5kiJ5O/lH8n+A5lGgL9G65k0QKKWO55w/aq/ug=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Lê Thanh Nguyên",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-064",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-064;SharedAccessKey=G5NW+0vVxB5ZHzOJ8iNiyTuEqCiL0Xvf1rtrZr1zi9E=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Phạm Lê Minh Trí",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-044",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-044;SharedAccessKey=rqk+ge1tBpWPcTh79ipQ+jmzUl9kB8nvxs8K8oee49E=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Ngọc Tường Vy",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-076",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-076;SharedAccessKey=RqK8f4aXtkCs6CYohLhdT2qmCskL20RDvs2j+d4dK8k=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Lê Quỳnh Tiên",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-026",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-026;SharedAccessKey=5sQUx0qFVMW+OfB+qnJD9lxJZt2SgazYvrEt/t5ZNy4=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Minh Phương",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-028",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-028;SharedAccessKey=+P/3o/nXYTaqsdj5k4mLh5N/Qj1P0pS3H/Ur+vZNoG4=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Chế Hồ Quang Đạt",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-072",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-072;SharedAccessKey=I0GTspkpliyvl+G2TtnbhW7BGrRJ7ivqWrTIUDi/SJA=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Nguyễn Đình Nhã",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-078",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-078;SharedAccessKey=BLmsmRYsmBM6mxN74CG2fF9wCoDRLFoiBP9jML++UeA=",
+        "deviceTags": {
+          "deploymentLocation": {
+            "building": "Portcoast",
+            "floor": "1"
+          },
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    },
+    {
+      "configuration": {
+        "personName": "Vũ Hoàng Minh",
+        "_kind": "hub",
+        "deviceType": "iotedge",
+        "deviceId": "pc-065",
+        "connectionString": "HostName=iothub-07e98e29.azure-devices.net;DeviceId=pc-065;SharedAccessKey=w4vS/k4jlYR7kof5VMY2DNzNxYlpwNI4GF459DVCB4s=",
+        "deviceTags": {
+          "schema": "{'deploymentLocation': {'building': 'Portcoast', 'floor': '1'}}"
+        }
+      }
+    }
+  ],
+  "comments": [
+    {
+      "description": "comments just for understanding!!! Not deploy in code!!!",
+      "personName": "The name of person who own device.",
+      "_kind": "there are two kinds of device: hub and template",
+      "deviceType": "there are two types of device: device (Devices) and iotedge (IoT Edge)",
+      "deviceId": "the id of device will be create. Following creator ideas",
+      "connectionString": "This will be responsed from iot hub.",
+      "deviceTags": {
+        "schema": "device-twin tags will be update up to creator."
+      }
+    }
+  ]
+}
